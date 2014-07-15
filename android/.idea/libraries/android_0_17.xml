@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="android-0.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.boofcv/android/0.17/8ac7d9d809112edae9626418cb917e4f9305f078/android-0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.boofcv/android/0.17/d5b2d0ef12bef4b9a4c3726cbf581b453ce3f573/android-0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

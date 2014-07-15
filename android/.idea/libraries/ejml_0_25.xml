@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ejml-0.25">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.efficient-java-matrix-library/ejml/0.25/ca572126669bb2cc7650f25c85dfccc1f96ccdd2/ejml-0.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.efficient-java-matrix-library/ejml/0.25/fad3f0f837c949460730b06b54112fdc84863bf6/ejml-0.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

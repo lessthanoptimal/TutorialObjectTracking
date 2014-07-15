@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="recognition-0.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.boofcv/recognition/0.17/c3660fc8f626c7280e2cde2f1b087f17221253ad/recognition-0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.boofcv/recognition/0.17/153496464f8f37a8d920c47a35cc1c62aebdebf6/recognition-0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

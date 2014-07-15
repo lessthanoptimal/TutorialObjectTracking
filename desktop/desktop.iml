@@ -17,20 +17,20 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Gradle: ejml-0.25" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: ddogleg-0.6-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: georegression-0.7-SNAPSHOT" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: ddogleg-0.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: georegression-0.6" level="project" />
     <orderEntry type="library" exported="" name="Gradle: ip-0.17" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io-0.17" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: calibration-0.17" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: geo-0.17" level="project" />
     <orderEntry type="library" exported="" name="Gradle: recognition-0.17" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: feature-0.17" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: sfm-0.17" level="project" />
     <orderEntry type="library" exported="" name="Gradle: visualize-0.17" level="project" />
     <orderEntry type="library" exported="" name="Gradle: WebcamCapture-0.17" level="project" />
     <orderEntry type="library" exported="" name="Gradle: xmlpull-1.1.3.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: xpp3_min-1.1.4c" level="project" />
     <orderEntry type="library" exported="" name="Gradle: xstream-1.4.7" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: feature-0.17" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: geo-0.17" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: calibration-0.17" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: sfm-0.17" level="project" />
     <orderEntry type="library" exported="" name="Gradle: filters-2.0.235-1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: dx-1.7" level="project" />
     <orderEntry type="library" exported="" name="Gradle: bridj-0.6.2" level="project" />

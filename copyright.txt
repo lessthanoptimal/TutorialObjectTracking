@@ -1,0 +1,5 @@
+Copyright Notice
+
+This software is written by Peter Abeles and has been released to the public domain. Peter Abeles does not assumes any responsibility whatsoever for its use by other parties, and makes no guarantees, expressed or implied, about its quality, reliability, or any other characteristic. 
+
+July 15, 2014
